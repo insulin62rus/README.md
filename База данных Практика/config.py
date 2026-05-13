@@ -1,0 +1,1 @@
+DB_NAME = "schedule.db"
